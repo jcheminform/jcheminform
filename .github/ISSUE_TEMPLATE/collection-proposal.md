@@ -13,7 +13,7 @@ assignees: egonw, rajarshi
 
 You acknowledge the [submission guidelines](https://jcheminf.biomedcentral.com/submission-guidelines) and in particular that all contributions adhere to the regular journal expectations:
 
- - [ ] open source software with an OSI-approved license
+ - [ ] source code and scripts with an OSI-approved license
  - [ ] data is provided under an open data license (CCZero, public domain, CC-BY)
 
 ## Proposal
