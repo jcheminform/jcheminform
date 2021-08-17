@@ -1,13 +1,13 @@
 ---
 name: Collection Proposal
-about: This template can be used to propose a collection in the Journal of Cheminformatics.
+about: This template can be used to propose a collection in the Journal of Cheminformatics (see [this list of current and past collections](https://jcheminf.biomedcentral.com/articles/collections)). A collection is also known as a special issue or thematic series, and is used to group articles about a certain theme (like [PubChem 3D](https://www.biomedcentral.com/collections/pubchem3d)) or around a conferences (like [the proceedings of the 11th ICCS](https://www.biomedcentral.com/collections/ICCS11)). This issue allows us to coordinate the discussion and development of a collection proposal. A collection often is linked to a [Call of Papers](https://jcheminf.biomedcentral.com/upcoming-special-issues).
 title: ''
 labels: collection proposal
 assignees: egonw, rajarshi
 
 ---
 
-# Put Your Collection Title Here
+# [Put Your Collection Title Here]
 
 ## Checklist
 
@@ -19,6 +19,9 @@ You acknowledge the [submission guidelines](https://jcheminf.biomedcentral.com/s
 ## Proposal
 
 Describe here what the collection is about ...
+
+ - [ ] this collection is about a certain theme
+ - [ ] this collection is for a conference
 
 ## Keywords
 
