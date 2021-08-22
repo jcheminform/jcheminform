@@ -20,7 +20,8 @@ You acknowledge the [submission guidelines](https://jcheminf.biomedcentral.com/s
 
 ## Proposal
 
-Describe here what the collection is about ...
+Describe here what the collection is about. Should describe the broad topic, and ideally, specific aspects of the topic you'd like to see articles about. This need not be an exhaustive list at the proposal stage, but should provide a flavor of what you're looking for. In addition, the more fleshed out this is, the easier to take it and convert it to a Call for Papers.
+
 
  - [ ] this collection is about a certain theme
  - [ ] this collection is for a conference
@@ -33,3 +34,11 @@ Add here a comma-separated list of keywords
 
  * First editor <ORCID>
  * Second editor <ORCID>
+
+ ## Possible authors
+
+This can be kept empty if you want to keep the call fully open. But it is useful to be able to seed the collection if you have a few authors in mind, who you (or another guest editor) can invite directly. At the proposal stage you don't need to have any commitments from possible authors,
+
+ * Author 1
+ * Author 2
+
